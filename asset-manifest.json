@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/histogram-chart/static/css/main.f01b686f.chunk.css",
-    "main.js": "/histogram-chart/static/js/main.dbb5e1ec.chunk.js",
-    "main.js.map": "/histogram-chart/static/js/main.dbb5e1ec.chunk.js.map",
+    "main.css": "/histogram-chart/static/css/main.2ca04676.chunk.css",
+    "main.js": "/histogram-chart/static/js/main.7dfc9077.chunk.js",
+    "main.js.map": "/histogram-chart/static/js/main.7dfc9077.chunk.js.map",
     "runtime-main.js": "/histogram-chart/static/js/runtime-main.332f21b9.js",
     "runtime-main.js.map": "/histogram-chart/static/js/runtime-main.332f21b9.js.map",
     "static/js/2.6cac2c9c.chunk.js": "/histogram-chart/static/js/2.6cac2c9c.chunk.js",
     "static/js/2.6cac2c9c.chunk.js.map": "/histogram-chart/static/js/2.6cac2c9c.chunk.js.map",
     "index.html": "/histogram-chart/index.html",
-    "precache-manifest.2e131ed2402f18e8881e771ceafe9842.js": "/histogram-chart/precache-manifest.2e131ed2402f18e8881e771ceafe9842.js",
+    "precache-manifest.05cb72401292851cc3144f79527d4a97.js": "/histogram-chart/precache-manifest.05cb72401292851cc3144f79527d4a97.js",
     "service-worker.js": "/histogram-chart/service-worker.js",
-    "static/css/main.f01b686f.chunk.css.map": "/histogram-chart/static/css/main.f01b686f.chunk.css.map",
+    "static/css/main.2ca04676.chunk.css.map": "/histogram-chart/static/css/main.2ca04676.chunk.css.map",
     "static/js/2.6cac2c9c.chunk.js.LICENSE.txt": "/histogram-chart/static/js/2.6cac2c9c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.332f21b9.js",
     "static/js/2.6cac2c9c.chunk.js",
-    "static/css/main.f01b686f.chunk.css",
-    "static/js/main.dbb5e1ec.chunk.js"
+    "static/css/main.2ca04676.chunk.css",
+    "static/js/main.7dfc9077.chunk.js"
   ]
 }
