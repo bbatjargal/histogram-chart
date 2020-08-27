@@ -11,7 +11,7 @@ This is a React Component which displays a histogram based on data passed to it.
 
 ### Live example
 
-Check out the [Histogram Component](https://github.com/bbatjargal/histogram-chart).
+Check out the [Histogram Component](https://bbatjargal.github.io/histogram-chart/){:target="_blank"}.
 
 
 ### Features
