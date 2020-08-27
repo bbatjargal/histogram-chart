@@ -1,9 +1,8 @@
 import React from "react";
 
 function Footer() {
-    const currentYear = new Date().getFullYear();
     return <footer>
-      <p>React Component {currentYear}</p>
+      <p>To learn more, check out the <a href="https://github.com/bbatjargal/histogram-chart" target="blank">Histogram Component</a>.</p>
     </footer>
 }
 

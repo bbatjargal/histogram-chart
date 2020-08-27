@@ -4,9 +4,11 @@ import tip from "d3-tip";
 import './histogram-styles.css';
 import './tooltip-styles.css';
 
-const MARGIN = { TOP: 10, BOTTOM: 50, LEFT: 70, RIGHT: 10}
+const MARGIN = { TOP: 10, BOTTOM: 55, LEFT: 70, RIGHT: 10}
 let WIDTH = 800 - MARGIN.LEFT - MARGIN.RIGHT;
 let HEIGHT = 500 - MARGIN.TOP - MARGIN.BOTTOM;
+let YAXISLABEL = "Values";
+let XAXISLABEL = "Keys";
 
 export default class HistogramChart{
     constructor(element, props) {
@@ -18,6 +20,15 @@ export default class HistogramChart{
 
         if(props.height) {
             HEIGHT = props.height - MARGIN.LEFT - MARGIN.RIGHT;
+        }
+
+        // x-axis and y-axis label configuration
+        if(props.xlabel) {
+            XAXISLABEL = props.xlabel;
+        }
+
+        if(props.ylabel) {
+            YAXISLABEL = props.ylabel;
         }
              
         // adding svg element
@@ -61,7 +72,7 @@ export default class HistogramChart{
             .attr("x", WIDTH / 2)
             .attr("y", HEIGHT + 50)
             .attr("text-anchor", "middle")
-            .text(props.xlabel);
+            .text(XAXISLABEL);
             
         svg.append("text")
             .attr("class", "chart-label")
@@ -69,7 +80,7 @@ export default class HistogramChart{
             .attr("y", -50)
             .attr("text-anchor", "middle")
             .attr("transform", "rotate(-90)")
-            .text(props.ylabel);
+            .text(YAXISLABEL);
 
         // defining tooltip
         let tooltip = tip().attr('class', 'd3-tip').html(function(d) { 
