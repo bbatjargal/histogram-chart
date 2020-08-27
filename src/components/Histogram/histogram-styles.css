@@ -1,0 +1,20 @@
+
+/*
+.bar:hover {
+    fill: #00CED1 ;
+ }
+ */
+ .bar-selected {
+    fill: #00CED1 ;
+ }
+
+ .chart-label {
+     font-weight: bold;
+     font-size: 18px;
+ }
+
+ .text-axis {
+    text-transform: capitalize;
+    font-weight: normal;
+    font-size: 12px;
+ }
