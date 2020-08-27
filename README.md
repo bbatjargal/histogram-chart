@@ -5,14 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Learn how to use Histogram Component in your application.
 
 
-### About Histogram Component
+### Histogram Component
 
-This is a React Component which displays a histogram based on data passed to it.
+The Histogram Component is a React Component which displays a histogram based on data passed to it.
 
 ### Live example
 
 Check out the [Histogram Component](https://bbatjargal.github.io/histogram-chart/).
-[Link](https://example.org/ "title" target="_blank")
 
 ### Features
 
