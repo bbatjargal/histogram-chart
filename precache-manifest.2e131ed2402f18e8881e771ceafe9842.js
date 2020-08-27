@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6242eea02d25acc5aa7bae7d0bfb6a91",
+    "revision": "be9ee4c5e82e884b91656506293fbeb1",
     "url": "/histogram-chart/index.html"
   },
   {
-    "revision": "d60f94c4127220ce2ed1",
+    "revision": "3b384d580b4fd8a4060a",
     "url": "/histogram-chart/static/css/main.f01b686f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/histogram-chart/static/js/2.6cac2c9c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d60f94c4127220ce2ed1",
-    "url": "/histogram-chart/static/js/main.b84e83b4.chunk.js"
+    "revision": "3b384d580b4fd8a4060a",
+    "url": "/histogram-chart/static/js/main.dbb5e1ec.chunk.js"
   },
   {
     "revision": "346dcd947480a7d806c7",
