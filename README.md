@@ -25,7 +25,9 @@ Define Histogram tag in your JSX code and need to pass data property as a dictio
 
 For example:
 
+```html
 <Histogram data={{"apples": 10, "oranges": 5, "pears": 15}} />
+```
 
 The above code will produce a bar chart, for apples, oranges and pears, where the height of the bar for the respective fruits is 10 for apples, 5 for oranges and 15 for pears. If we user hovers over or clicks the apples bar, the tooltip will show ‘Apples: 10’.
 
@@ -37,12 +39,13 @@ The above code will produce a bar chart, for apples, oranges and pears, where th
 
 For example:
 
+```html
 <Histogram data={data} 
         ylabel="Counts" 
         xlabel="Fruits"
         width="800"
         height="500" />
-
+```
 
 
 ## How to run
