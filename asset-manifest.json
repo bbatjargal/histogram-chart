@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/histogram-chart/static/css/main.f01b686f.chunk.css",
+    "main.js": "/histogram-chart/static/js/main.b84e83b4.chunk.js",
+    "main.js.map": "/histogram-chart/static/js/main.b84e83b4.chunk.js.map",
+    "runtime-main.js": "/histogram-chart/static/js/runtime-main.332f21b9.js",
+    "runtime-main.js.map": "/histogram-chart/static/js/runtime-main.332f21b9.js.map",
+    "static/js/2.6cac2c9c.chunk.js": "/histogram-chart/static/js/2.6cac2c9c.chunk.js",
+    "static/js/2.6cac2c9c.chunk.js.map": "/histogram-chart/static/js/2.6cac2c9c.chunk.js.map",
+    "index.html": "/histogram-chart/index.html",
+    "precache-manifest.ad484dfec23a7f596101ea5d52a6ef73.js": "/histogram-chart/precache-manifest.ad484dfec23a7f596101ea5d52a6ef73.js",
+    "service-worker.js": "/histogram-chart/service-worker.js",
+    "static/css/main.f01b686f.chunk.css.map": "/histogram-chart/static/css/main.f01b686f.chunk.css.map",
+    "static/js/2.6cac2c9c.chunk.js.LICENSE.txt": "/histogram-chart/static/js/2.6cac2c9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.332f21b9.js",
+    "static/js/2.6cac2c9c.chunk.js",
+    "static/css/main.f01b686f.chunk.css",
+    "static/js/main.b84e83b4.chunk.js"
+  ]
+}
