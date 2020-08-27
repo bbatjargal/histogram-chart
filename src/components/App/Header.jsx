@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
     return <header>
-        <h1>React Histogram Component</h1>
+        <h1>Histogram Component (React and D3)</h1>
     </header>
 }
 
