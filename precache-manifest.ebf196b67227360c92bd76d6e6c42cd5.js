@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec98cf140b271edae79ee8c23e31b2e6",
+    "revision": "c63b4d349c52fd05e5c3d7141c9dbfa6",
     "url": "/histogram-chart/index.html"
   },
   {
