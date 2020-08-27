@@ -20,7 +20,7 @@ Check out the [Histogram Component](https://bbatjargal.github.io/histogram-chart
 
 ### Usage
 
-Define Histogram tag in your JSX code and need to pass data property as a dictionary.
+Define a Histogram tag in your JSX code and need to pass the data property as a dictionary.
 
 For example:
 
